@@ -6,13 +6,17 @@ public:
         int n = nums.size();
         for(int i=0;i<n;i++){
             mpp[nums[i]]++;
-        }
-
-        for(auto ele:mpp){
-            if(ele.second>=2){
+            if(mpp[nums[i]]>1){
                 return true;
             }
         }
+
+        // We don't need this second loop as we can do this thing inside single loop
+        // for(auto ele:mpp){
+        //     if(ele.second>=2){
+        //         return true;
+        //     }
+        // }
         return false;
     }
 
