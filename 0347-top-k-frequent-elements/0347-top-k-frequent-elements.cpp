@@ -13,13 +13,13 @@ public:
         }
 
         vector<int> ans;
-        for(int i=n;i>=0;i--){
-            for(int j=0;j<arr[i].size();j++){
+        for(int i=n;i>0;i--){
+            for(auto ele:arr[i]){
+                ans.push_back(ele);
                 if(ans.size()==k){
                     return ans;
                 }
 
-                ans.push_back(arr[i][j]);
             }
         }
         return ans;
