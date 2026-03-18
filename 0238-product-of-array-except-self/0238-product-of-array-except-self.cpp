@@ -23,26 +23,59 @@ public:
         Space Complexity - O(1)
         */
 
-        int n = nums.size();
-        vector<int> prefix(n,1);
-        vector<int> suffix(n,1);
+        // Better Approach - 
 
-        // Calculate prefix
+        // int n = nums.size();
+        // vector<int> prefix(n,1);
+        // vector<int> suffix(n,1);
+
+        // // Calculate prefix
+        // for(int i=1;i<n;i++){
+        //     prefix[i] = prefix[i-1]*nums[i-1];
+        // }
+
+        // // Calculate Suffix
+        // for(int i=n-2;i>=0;i--){
+        //     suffix[i] = suffix[i+1]*nums[i+1];
+        // }
+
+        // // Calculate Product
+        // vector<int> ans(n,1);
+        // for(int i=0;i<n;i++){
+        //     ans[i] = prefix[i]*suffix[i];
+        // }
+
+        // return ans;
+
+        /*
+        Time Complexity - O(n)
+
+        Space Complexity - O(n)
+        */
+
+        // Optimal Approach - Without extra prefix and suffix arrays
+
+        int n = nums.size();
+        vector<int> ans(n,1);
+
+        // Calculate Prefix
         for(int i=1;i<n;i++){
-            prefix[i] = prefix[i-1]*nums[i-1];
+            ans[i] = ans[i-1]*nums[i-1];
         }
 
         // Calculate Suffix
+        int suffix = 1;
         for(int i=n-2;i>=0;i--){
-            suffix[i] = suffix[i+1]*nums[i+1];
-        }
-
-        // Calculate Product
-        vector<int> ans(n,1);
-        for(int i=0;i<n;i++){
-            ans[i] = prefix[i]*suffix[i];
+            suffix *= nums[i+1];
+            ans[i] *= suffix;
         }
 
         return ans;
+
+        /*
+        Time Complexity - O(n)
+
+        Space Complexity - O(1)//only answer array is used
+        */
     }
 };
