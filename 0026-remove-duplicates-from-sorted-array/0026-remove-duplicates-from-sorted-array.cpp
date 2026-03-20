@@ -6,10 +6,15 @@ public:
         for(int j=1;j<n;j++){
             if(nums[i]!=nums[j]){
                 i++;
-                nums[i] = nums[j];
+                nums[i] = nums[j];// we are not swapping because we don't care about that value at i which is a duplicate one so we are just replacing it with unique value
             }
         }
 
         return i+1;
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(1)
+    */
 };
