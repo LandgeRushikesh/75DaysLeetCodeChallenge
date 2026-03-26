@@ -4,18 +4,14 @@ public:
     double findMaxAverage(vector<int>& nums, int k) {
         int n = nums.size();
         double average = 0;
-        double maxAverage = INT_MIN;
         int sum = 0;
 
         for(int i=0;i<k;i++){
             sum += nums[i];
         }
         average = (double)sum/k;
-        maxAverage = max(maxAverage,average);
-        if(k==n){
-            return maxAverage;
-        }
-
+        double maxAverage = average;
+        
         for(int i=k;i<n;i++){
             sum -= nums[i-k];
             sum += nums[i];
@@ -25,4 +21,9 @@ public:
 
         return maxAverage;
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(1)
+    */
 };
