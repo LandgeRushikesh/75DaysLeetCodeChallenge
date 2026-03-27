@@ -3,13 +3,10 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        if(n==0){
-            return 0;
-        }
-        int maxLen = 1;
+        int maxLen = 0;
         int left = 0;
         int right = 0;
-        set<int> unique;
+        set<char> unique;
         while(right<n){
             if(unique.find(s[right])==unique.end()){
                 maxLen = max(maxLen,right-left+1);
@@ -24,4 +21,9 @@ public:
 
         return maxLen;
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(n)
+    */
 };
