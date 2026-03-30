@@ -6,7 +6,7 @@ public:
         
     }
     
-    void push(int x) {
+    void push(int x) {//--->O(n)
         while(!s1.empty()){
             s2.push(s1.top());
             s1.pop();
@@ -20,19 +20,21 @@ public:
         }
     }
     
-    int pop() {
+    int pop() {//---> O(1)
         int ele = s1.top();
         s1.pop();
         return ele;
     }
     
-    int peek() {
+    int peek() {//---> O(1)
         return s1.top();
     }
     
-    bool empty() {
+    bool empty() {//---> O(1)
         return s1.empty();
     }
+
+    // Space Complexity - O(n)---> elements stored in stacks
 };
 
 /**
