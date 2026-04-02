@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
