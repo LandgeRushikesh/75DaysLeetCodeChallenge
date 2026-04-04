@@ -14,6 +14,12 @@ public:
     //     return n;
     // }
     
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(1)
+    */
+
     // Optimal Approach
     int searchInsert(vector<int>& nums, int target) {
         int n = nums.size();
@@ -35,4 +41,9 @@ public:
         }
         return left;
     }
+    /*
+    Time Complexity - O(log n)
+
+    Space Complexity - O(1)
+    */
 };
