@@ -25,7 +25,7 @@ public:
         int col = matrix[0].size();
 
         int startOfRow = 0;
-        int EndOfRow = col-1;
+        int EndOfRow = row-1;
 
         while(startOfRow<=EndOfRow){
             int midOfRow = (startOfRow + EndOfRow)/2;
