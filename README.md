@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Greedy
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0183-customers-who-never-order/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
