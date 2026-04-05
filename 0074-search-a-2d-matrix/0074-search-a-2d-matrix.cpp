@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Here Logic is we will first find a row in which target is present using binary search and then again we will find a target in that row using binary search
+
     bool SearchInRow(vector<vector<int>>& matrix,int row,int col, int target){
         int sRow = 0;
         int eRow = col-1;
