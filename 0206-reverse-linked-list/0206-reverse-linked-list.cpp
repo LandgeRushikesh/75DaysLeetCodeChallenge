@@ -25,4 +25,9 @@ public:
 
         return Prev;
     }
+    /*
+    Time Complexity - O(n) Traverse list once
+
+    Space Complexity - O(1) No extra space used
+    */
 };
