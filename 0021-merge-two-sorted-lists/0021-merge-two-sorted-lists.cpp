@@ -28,4 +28,10 @@ public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         return merge(list1,list2);
     }
+
+    /*
+    Time Complexity - O(n+m)
+
+    Space Complexity - O(n+m) // due to recurrsion stack
+    */
 };
