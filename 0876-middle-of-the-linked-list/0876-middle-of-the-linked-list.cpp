@@ -26,6 +26,11 @@ public:
         //     temp = temp->next;
         // }
         // return temp;
+        /*
+        Time Complexity- O(n)+O(n) (2 pass)
+
+        Space Complexity - O(1)
+        */
 
         // 2nd approach
 
@@ -39,4 +44,9 @@ public:
 
         return slow;
     }
+    /*
+    Time Complexity- O(n) (1 Pass)
+
+        Space Complexity - O(1)
+    */
 };
