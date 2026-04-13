@@ -22,7 +22,7 @@ public:
             i++;
         }
 
-        while(Fast!=nullptr && Fast->next!=nullptr){
+        while(Fast->next!=nullptr){
             slow = slow->next;
             Fast = Fast->next;
         }
@@ -37,4 +37,9 @@ public:
         return newHead;
     }
 
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(1)
+    */
 };
