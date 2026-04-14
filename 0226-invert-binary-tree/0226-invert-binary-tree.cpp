@@ -20,4 +20,9 @@ public:
         root->right = invertTree(temp);
         return root;
     }
+    /*
+    Time Complexity - O(n)--->Each Node Visited only once
+
+    Space Complexity - O(h)--->Recursion stack , h= height of the tree
+    */
 };
