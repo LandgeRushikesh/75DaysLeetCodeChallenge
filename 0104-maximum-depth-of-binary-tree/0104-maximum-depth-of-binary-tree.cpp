@@ -21,4 +21,10 @@ public:
 
         return 1+ max(left,right);
     }
+
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(h)
+    */
 };
