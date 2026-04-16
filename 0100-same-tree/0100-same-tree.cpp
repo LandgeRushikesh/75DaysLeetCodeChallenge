@@ -29,4 +29,9 @@ public:
 
         return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(h)
+    */
 };
