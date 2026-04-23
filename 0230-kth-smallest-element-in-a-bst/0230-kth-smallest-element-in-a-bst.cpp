@@ -39,20 +39,50 @@ public:
     */
 
     // Optimal Approach - inorder traversal returns elements in sorted order
-     void OrderTraversal(TreeNode* root,vector<int>& ele){
-        if(root==nullptr){
+    //  void OrderTraversal(TreeNode* root,vector<int>& ele){
+    //     if(root==nullptr){
+    //         return;
+    //     }
+
+    //     OrderTraversal(root->left,ele);
+    //     ele.push_back(root->val);
+    //     OrderTraversal(root->right,ele);
+        
+    // }
+    // int kthSmallest(TreeNode* root, int k) {
+    //    vector<int> ele;
+    //    OrderTraversal(root,ele);
+
+    //    return ele[k-1];
+    // }
+
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(h)
+    */
+
+    // Another Optimal Approach - 
+    int ans = 0;
+    int count = 0;
+
+    void inorderTraversal(TreeNode* root, int k){
+        if(root == nullptr){
             return;
         }
 
-        OrderTraversal(root->left,ele);
-        ele.push_back(root->val);
-        OrderTraversal(root->right,ele);
-        
+        inorderTraversal(root->left,k);
+        count++;
+        if(count==k){
+            ans = root->val;
+            return;
+        }
+
+        inorderTraversal(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-       vector<int> ele;
-       OrderTraversal(root,ele);
+       inorderTraversal(root,k);
 
-       return ele[k-1];
+       return ans;
     }
 };
