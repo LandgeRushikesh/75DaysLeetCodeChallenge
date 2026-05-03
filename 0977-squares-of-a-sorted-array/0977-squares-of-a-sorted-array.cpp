@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Brute Force Approach - 
     vector<int> sortedSquares(vector<int>& nums) {
         int n = nums.size();
         for(int i=0;i<n;i++){
@@ -9,4 +10,14 @@ public:
         sort(nums.begin(),nums.end());
         return nums;
     }
+
+    /*
+    Time Complexity - O(nlogn)
+
+    Space Complexity - O(1)
+    */
+
+
+    // Optimize approach - as we know largest square will come from either:
+    // left(negative largest)
 };
