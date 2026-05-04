@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
