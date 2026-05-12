@@ -22,9 +22,11 @@ public:
             }
 
             maxLen = max(maxLen,right-left+1);
-
         }
-
         return maxLen;
     }
+    /*
+    Time Complexity: O(n) → each element visited once
+    Space Complexity: O(1)
+    */
 };
