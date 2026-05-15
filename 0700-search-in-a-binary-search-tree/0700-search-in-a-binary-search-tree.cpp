@@ -11,23 +11,38 @@
  */
 class Solution {
 public:
+
+    // Iterative Approach
+    // TreeNode* searchBST(TreeNode* root, int val) {
+    //     if(root==nullptr){
+    //         return nullptr;
+    //     }
+    //     TreeNode* temp = root;
+    //     while(temp!=nullptr){
+    //         if(temp->val==val){
+    //             return temp;
+    //         }
+    //         else if(temp->val>val){
+    //             temp = temp->left;
+    //         }
+    //         else{
+    //             temp = temp->right;
+    //         }
+    //     }
+
+    //     return nullptr;
+    // }
+
+    // Recursive Approach 
     TreeNode* searchBST(TreeNode* root, int val) {
-        if(root==nullptr){
-            return nullptr;
-        }
-        TreeNode* temp = root;
-        while(temp!=nullptr){
-            if(temp->val==val){
-                return temp;
-            }
-            else if(temp->val>val){
-                temp = temp->left;
-            }
-            else{
-                temp = temp->right;
-            }
+        if(root == nullptr || root->val == val){
+            return root;
         }
 
-        return nullptr;
+        if(val < root->val){
+            return searchBST(root->left, val);
+        }
+
+        return searchBST(root->right, val);
     }
 };
