@@ -12,18 +12,23 @@
 class Solution {
 public:
     void preOrderT(TreeNode* root,vector<int> &preorder){
-        if(root==nullptr){
-            return;
-        }
-        preorder.push_back(root->val);
-        preOrderT(root->left,preorder);
-        preOrderT(root->right,preorder);
+       if(root==nullptr){
+        return;
+       }
+
+       preorder.push_back(root->val);
+       preOrderT(root->left,preorder);
+       preOrderT(root->right,preorder);
     }
     vector<int> preorderTraversal(TreeNode* root) {
-    vector<int> preorder;
-    preOrderT(root,preorder);
-
-    return preorder;
+        vector<int> preorder;
+        preOrderT(root,preorder);
+        return preorder;
         
     }
+    /*
+    Time Complexity - O(n)--->each node visited only once
+
+    Space Complexity - O(h)--->recursion stack h=height of the tree
+    */
 };
