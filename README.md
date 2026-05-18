@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
