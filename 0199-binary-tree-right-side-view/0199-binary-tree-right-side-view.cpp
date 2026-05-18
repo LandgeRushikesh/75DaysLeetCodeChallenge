@@ -14,6 +14,9 @@ public:
     
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
+        if(root == nullptr) {
+            return ans;
+        }
         queue<TreeNode*> Que;
 
         Que.push(root);
@@ -39,4 +42,9 @@ public:
         }
         return ans;
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(h)
+    */
 };
