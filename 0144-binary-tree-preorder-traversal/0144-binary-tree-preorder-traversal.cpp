@@ -54,6 +54,10 @@ public:
             }
         }
         return preorder;
-        
     }
+    /*
+    Time Complexity - O(n)
+
+    Space Complexity - O(n)--->for stack
+    */
 };
