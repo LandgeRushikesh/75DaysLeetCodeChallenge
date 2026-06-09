@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
