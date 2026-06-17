@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -429,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
