@@ -11,25 +11,28 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
+    int FindHeight(TreeNode* root){
         if(root==nullptr){
             return 0;
         }
 
-        int leftHt = height(root->left);
-        int rightHt = height(root->right);
+        return 1 + max(FindHeight(root->left),FindHeight(root->right));
+    }
+    void FindMaxDia(TreeNode* root,int &maxDia){
+        if(root==nullptr){
+            return ;
+        }
 
-        return max(leftHt,rightHt)+1;
+        int ltHeight = FindHeight(root->left);
+        int rtHeight = FindHeight(root->right);
+
+        maxDia = max(maxDia,ltHeight+rtHeight);
+        FindMaxDia(root->left,maxDia);
+        FindMaxDia(root->right,maxDia);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==nullptr){
-            return 0;
-        }
-
-        int leftDia = diameterOfBinaryTree(root->left);
-        int rightDia = diameterOfBinaryTree(root->right);
-        int currDia = height(root->left)+height(root->right);
-
-        return max(leftDia,max(rightDia,currDia));
+        int maxDia = 0;
+        FindMaxDia(root,maxDia);
+        return maxDia;
     }
 };
