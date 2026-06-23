@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+// Brute Force Approach
+/*
     int FindHeight(TreeNode* root){
         if(root==nullptr){
             return 0;
@@ -30,6 +32,35 @@ public:
         FindMaxDia(root->left,maxDia);
         FindMaxDia(root->right,maxDia);
     }
+    int diameterOfBinaryTree(TreeNode* root) {
+        int maxDia = 0;
+        FindMaxDia(root,maxDia);
+        return maxDia;
+    }
+*/
+
+/*
+Time Complexity - O(N^2)
+
+Space Complexity - O(N)
+*/
+
+
+// Optimal Approach
+
+    int FindMaxDia(TreeNode* root,int &maxDia){
+        if(root==nullptr){
+            return 0;
+        }
+
+        int ltHeight = FindMaxDia(root->left,maxDia);
+        int rtHeight = FindMaxDia(root->right,maxDia);
+
+        maxDia = max(maxDia,ltHeight+rtHeight);
+
+        return 1+ max(ltHeight,rtHeight);
+    }
+
     int diameterOfBinaryTree(TreeNode* root) {
         int maxDia = 0;
         FindMaxDia(root,maxDia);
