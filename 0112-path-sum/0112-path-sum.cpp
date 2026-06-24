@@ -11,16 +11,23 @@
  */
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root == nullptr) return false;
-
-        // If leaf node
-        if(root->left == nullptr && root->right == nullptr){
-            return targetSum == root->val;
+    bool pathSum(TreeNode* root, int remainingTarget){
+        if(root==nullptr){
+            return false;
         }
 
-        // Reduce target and recurse
-        return hasPathSum(root->left, targetSum - root->val) ||
-               hasPathSum(root->right, targetSum - root->val);
+        remainingTarget -= root->val;
+
+        if(root->left==nullptr && root->right==nullptr){
+            return remainingTarget==0;
+        }
+
+        bool lt = pathSum(root->left,remainingTarget);
+        bool rt = pathSum(root->right,remainingTarget);
+
+        return lt || rt;
+    }
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        return pathSum(root,targetSum);
     }
 };
