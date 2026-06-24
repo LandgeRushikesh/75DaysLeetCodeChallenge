@@ -56,9 +56,11 @@ public:
         }
 
         int lt = CheckBinaryTree(root->left);
+        if(lt==-1){
+            return -1;
+        }
         int rt = CheckBinaryTree(root->right);
-
-        if(lt==-1 || rt==-1){
+        if(rt==-1){
             return -1;
         }
         if(abs(lt-rt)>1){
