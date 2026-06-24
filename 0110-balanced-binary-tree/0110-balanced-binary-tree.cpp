@@ -11,33 +11,68 @@
  */
 class Solution {
 public:
-    int FindHeight(TreeNode* root){
+    // Brute Force Approach - 
+
+    // int FindHeight(TreeNode* root){
+    //     if(root==nullptr){
+    //         return 0;
+    //     }
+
+    //     return 1+max(FindHeight(root->left),FindHeight(root->right));
+    // }
+    // bool isBalanced(TreeNode* root) {
+    //     if(root==nullptr){
+    //         return true;
+    //     }
+
+    //     int lt = FindHeight(root->left);
+    //     int rt = FindHeight(root->right);
+
+    //     if(abs(lt-rt)>1){
+    //         return false;
+    //     }
+
+    //     bool left = isBalanced(root->left);
+    //     bool right = isBalanced(root->right);
+
+    //     if(!left || !right){
+    //         return false;
+    //     }
+
+    //     return true;
+    // }
+
+    /*
+    Time Complexity - O(n^2)
+
+    Space Complexity - O(h)
+    */
+
+    // Optimal Apporach - 
+
+    int CheckBinaryTree(TreeNode* root){
         if(root==nullptr){
             return 0;
         }
 
-        return 1+max(FindHeight(root->left),FindHeight(root->right));
+        int lt = CheckBinaryTree(root->left);
+        int rt = CheckBinaryTree(root->right);
+
+        if(lt==-1 || rt==-1){
+            return -1;
+        }
+        if(abs(lt-rt)>1){
+            return -1;
+        }
+        return 1+max(lt,rt);
     }
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr){
-            return true;
-        }
+        int isBal = CheckBinaryTree(root);
 
-        int lt = FindHeight(root->left);
-        int rt = FindHeight(root->right);
-
-        if(abs(lt-rt)>1){
-            return false;
-        }
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-
-        if(!left || !right){
+        if(isBal==-1){
             return false;
         }
 
         return true;
-
     }
 };
