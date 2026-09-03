@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0183-customers-who-never-order/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0619-biggest-single-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0619-biggest-single-number/) | Easy |
 ## Matrix
