@@ -12,7 +12,7 @@ public:
         }
 
         vector<vector<string>> ans;
-        for(auto mp:strsMap){
+        for(auto &mp:strsMap){
             ans.push_back(mp.second);
         }
 
