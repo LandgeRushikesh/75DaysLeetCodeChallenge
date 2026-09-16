@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
