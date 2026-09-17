@@ -10,8 +10,6 @@ public:
 
 
         int max_len = 0;
-        int len = 0;
-        int current = -1;
         for(auto x:seq){
             // Check if nums[i] is a beginning of the sequence
             if(seq.find(x-1)==seq.end()){
