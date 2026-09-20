@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
