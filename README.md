@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
