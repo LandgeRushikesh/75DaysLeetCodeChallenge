@@ -5,8 +5,6 @@ public:
         for(int i=0;i<=rowIndex;i++){
             triangle.push_back({});// this is to create a row in vector as we cannot access vector using indices as it's size will be zero so it will give reference to NULL error.
             for(int j=0;j<=i;j++){
-                if(j==0){
-                }
                 if(j==0 || j==i){
 
                     triangle[i].push_back(1);
