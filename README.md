@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0118-pascals-triangle](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
