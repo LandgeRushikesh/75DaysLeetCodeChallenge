@@ -20,6 +20,9 @@ public:
     //     return triangle[rowIndex];
     // }
     vector<int> getRow(int rowIndex) {
+        if(rowIndex==0){
+            return {1};
+        }
         vector<int> prev_row = {1};
         vector<int> curr_row;
         for(int i=1;i<=rowIndex;i++){
@@ -35,9 +38,6 @@ public:
                 curr_row[j] = ele;
             }
             prev_row = curr_row;
-        }
-        if(curr_row.size()==0){
-            return {1};
         }
         return curr_row;
     }
