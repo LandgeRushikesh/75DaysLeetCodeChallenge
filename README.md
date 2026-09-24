@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
