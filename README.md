@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [1470-shuffle-the-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
