@@ -26,16 +26,18 @@ public:
         */
 
         vector<int> ans(2*n,0);
-        int j = 0;
-        int k = 1;
-        for(int i=0;i<n;i++){
-            ans[j] = nums[i];
-            ans[k] = nums[i+n];
 
-            j += 2;
-            k += 2;
+        for(int i=0;i<n;i++){
+            ans[i * 2] = nums[i];
+            ans[i * 2 + 1] = nums[i+n];
         }
 
         return ans;
+
+        /*
+        Time Complexity - O(n)
+
+        Space Complexity - O(n)
+        */
     }
 };
