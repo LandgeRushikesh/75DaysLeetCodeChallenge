@@ -6,12 +6,11 @@ class Solution {
         for(int i=1;i<n;i++){
             if(cnt==0){
                 ele = nums[i];
+            }
+            if(ele == nums[i]){
                 cnt++;
             }
-            else if(ele == nums[i]){
-                cnt++;
-            }
-            else if(ele != nums[i]){
+            else{
                 cnt--;
             }
             
