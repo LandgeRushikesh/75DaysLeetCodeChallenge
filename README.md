@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Radix Sort
 |  |
