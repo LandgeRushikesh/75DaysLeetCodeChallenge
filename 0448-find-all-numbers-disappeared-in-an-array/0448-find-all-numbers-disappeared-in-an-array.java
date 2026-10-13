@@ -4,13 +4,8 @@ class Solution {
         List<Integer> list = new ArrayList<>();
 
         for(int i=0;i<n;i++){
-            int idx;
-            if(nums[i]<0){
-                idx = nums[i]*-1;
-            }
-            else{
-                idx = nums[i];
-            }
+            int idx = Math.abs(nums[i]);
+           
             if(nums[idx-1]>0){
                 nums[idx-1]*= -1;
             }
