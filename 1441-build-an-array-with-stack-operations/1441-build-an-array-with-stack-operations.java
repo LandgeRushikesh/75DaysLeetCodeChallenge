@@ -10,10 +10,6 @@ class Solution {
             else{
                 ans.add("Pop");
             }
-
-            if(j==target.length){
-                break;
-            }
         }
 
         return ans;
