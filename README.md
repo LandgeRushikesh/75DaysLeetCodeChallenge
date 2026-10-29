@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LandgeRushikesh/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
