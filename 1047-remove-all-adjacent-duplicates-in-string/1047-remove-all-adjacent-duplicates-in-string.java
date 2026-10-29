@@ -15,10 +15,7 @@ class Solution {
                 j++;
             }
         }
-        String ans = "";
-        for(int i=0;i<=j;i++){
-            ans += arr[i];
-        }
+        String ans = new String(arr,0,j+1);
 
         return ans;
     }
